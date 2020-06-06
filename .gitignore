@@ -1,0 +1,6 @@
+# Ignore some files
+data/
+!data/.gitkeep
+
+www/
+!www/.gitkeep
